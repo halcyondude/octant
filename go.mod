@@ -71,13 +71,12 @@ require (
 	github.com/bits-and-blooms/bitset v1.2.0 // indirect
 	github.com/cespare/xxhash/v2 v2.1.1 // indirect
 	github.com/containerd/cgroups v1.0.1 // indirect
-	github.com/containerd/containerd v1.5.4 // indirect
 	github.com/containerd/stargz-snapshotter/estargz v0.9.0 // indirect
 	github.com/containers/libtrust v0.0.0-20190913040956-14b96171aa3b // indirect
 	github.com/containers/ocicrypt v1.1.2 // indirect
 	github.com/containers/storage v1.37.0 // indirect
 	github.com/docker/distribution v2.7.1+incompatible // indirect
-	github.com/docker/docker v20.10.8+incompatible // indirect
+	github.com/docker/docker v20.10.27+incompatible // indirect
 	github.com/docker/docker-credential-helpers v0.6.4 // indirect
 	github.com/docker/go-connections v0.4.0 // indirect
 	github.com/docker/go-metrics v0.0.1 // indirect
